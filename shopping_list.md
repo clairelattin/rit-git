@@ -2,3 +2,5 @@
 - [ ] Eggs
 - [ ] *Organic* Milk
 - [ ] Tomatoes
+- [ ] Onions
+- [ ] Pickles
