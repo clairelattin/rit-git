@@ -1,0 +1,4 @@
+- [ ] Cheese
+- [ ] Eggs
+- [ ] *Organic* Milk
+- [ ] Tomatoes
